@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS\\5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69CF901D-6E94-44D7-8C43-9EBD43D2DD02}|5\\5.csproj|E:\\VS\\5\\5\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CF901D-6E94-44D7-8C43-9EBD43D2DD02}|5\\5.csproj|solutionrelative:5\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CF901D-6E94-44D7-8C43-9EBD43D2DD02}|5\\5.csproj|e:\\vs\\5\\5\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CF901D-6E94-44D7-8C43-9EBD43D2DD02}|5\\5.csproj|solutionrelative:5\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQL.cs",
+              "DocumentMoniker": "E:\\VS\\5\\5\\SQL.cs",
+              "RelativeDocumentMoniker": "5\\SQL.cs",
+              "ToolTip": "E:\\VS\\5\\5\\SQL.cs",
+              "RelativeToolTip": "5\\SQL.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:10:29.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\VS\\5\\5\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "5\\UnitTest1.cs",
+              "ToolTip": "E:\\VS\\5\\5\\UnitTest1.cs",
+              "RelativeToolTip": "5\\UnitTest1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwEIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:10:29.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

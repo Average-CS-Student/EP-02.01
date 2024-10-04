@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS\\4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3D4D54-C2D6-4831-973D-F7916392B280}|4\\4.csproj|e:\\vs\\4\\4\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3D4D54-C2D6-4831-973D-F7916392B280}|4\\4.csproj|solutionrelative:4\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3D4D54-C2D6-4831-973D-F7916392B280}|4\\4.csproj|E:\\VS\\4\\4\\employeenotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B3D4D54-C2D6-4831-973D-F7916392B280}|4\\4.csproj|solutionrelative:4\\employeenotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3D4D54-C2D6-4831-973D-F7916392B280}|4\\4.csproj|E:\\VS\\4\\4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3D4D54-C2D6-4831-973D-F7916392B280}|4\\4.csproj|solutionrelative:4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3D4D54-C2D6-4831-973D-F7916392B280}|4\\4.csproj|E:\\VS\\4\\4\\employeenotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3D4D54-C2D6-4831-973D-F7916392B280}|4\\4.csproj|solutionrelative:4\\employeenotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeNotifications.cs",
+              "DocumentMoniker": "E:\\VS\\4\\4\\EmployeeNotifications.cs",
+              "RelativeDocumentMoniker": "4\\EmployeeNotifications.cs",
+              "ToolTip": "E:\\VS\\4\\4\\EmployeeNotifications.cs",
+              "RelativeToolTip": "4\\EmployeeNotifications.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:21:15.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS\\4\\4\\Program.cs",
+              "RelativeDocumentMoniker": "4\\Program.cs",
+              "ToolTip": "E:\\VS\\4\\4\\Program.cs",
+              "RelativeToolTip": "4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:50:19.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQL.cs",
+              "DocumentMoniker": "E:\\VS\\4\\4\\SQL.cs",
+              "RelativeDocumentMoniker": "4\\SQL.cs",
+              "ToolTip": "E:\\VS\\4\\4\\SQL.cs",
+              "RelativeToolTip": "4\\SQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:14:40.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeNotifications.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\VS\\4\\4\\EmployeeNotifications.cs",
+              "RelativeDocumentMoniker": "4\\EmployeeNotifications.cs",
+              "ToolTip": "E:\\VS\\4\\4\\EmployeeNotifications.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "4\\EmployeeNotifications.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:21:13.632Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
